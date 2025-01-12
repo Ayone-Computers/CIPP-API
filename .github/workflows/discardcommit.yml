@@ -26,4 +26,4 @@ jobs:
           app-name: 'yourfunctionappnamehere' # Change this to your function app name (eg cippdh4ch)
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_37+d|bY8hHw(uEa7M7(x/<nix0!$P'7n9%wv@)3{iU?NC-FH }} # Change this to your repository secret name
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AZURE_STATIC_WEB_APPS_API_TOKEN_MANGO_SAND_0591D381E }} # Change this to your repository secret name
